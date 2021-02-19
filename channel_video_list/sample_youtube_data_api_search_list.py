@@ -1,4 +1,5 @@
 import os
+import json
 
 from dotenv import load_dotenv
 
@@ -28,7 +29,8 @@ def main():
     )
     response = request.execute()
 
-    print(response)
+    with open('output_youtube_data_api_search_list.json', 'w') as f:
+        json.dump(response, f, ensure_ascii=False, indent=4)
 
 
 if __name__ == "__main__":

@@ -19,4 +19,4 @@ for d in data.get('items', []):
 channel_data.update(videos_data=videos_data)
 
 with open('sample_channel_video_list_out.yml', 'w') as f:
-    yaml.dump(channel_data, f, allow_unicode=True)
+    yaml.dump(channel_data, f, allow_unicode=True, indent=4)

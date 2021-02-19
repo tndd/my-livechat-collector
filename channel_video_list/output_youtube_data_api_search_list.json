@@ -1,13 +1,47 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "gAFhRBcJjcgqZOjsDRuCbrF89aY",
+    "etag": "xyrvRA6cluuVzvrmKHDMeU140H0",
     "nextPageToken": "CDIQAA",
     "regionCode": "JP",
     "pageInfo": {
-        "totalResults": 245,
+        "totalResults": 246,
         "resultsPerPage": 50
     },
     "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KlXSDRI2JjJdG0ZIGr_3PJdMldo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_LqUCc4Agek"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-18T19:51:09Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【スーパードンキーコング】完全初見でゆく～～～！#1【猫又おかゆ/ホロライブ】",
+                "description": "＿ 完全初見！すっごく楽しみ…   この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_LqUCc4Agek/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_LqUCc4Agek/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_LqUCc4Agek/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-18T19:51:09Z"
+            }
+        },
         {
             "kind": "youtube#searchResult",
             "etag": "kp5xUwcDnfB45LDEg4f-mYCGI-E",
@@ -868,7 +902,7 @@
             "snippet": {
                 "publishedAt": "2021-01-10T17:39:23Z",
                 "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
-                "title": "【大会前日】最後の！合同練習！#おかあくすば\u200b 【猫又おかゆ/ホロライブ】",
+                "title": "【大会前日】最後の！合同練習！#おかあくすば​ 【猫又おかゆ/ホロライブ】",
                 "description": "＿ 最後の合同練習～～～！！！！！！！ 湊あくあ https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg 大空スバル ...",
                 "thumbnails": {
                     "default": {
@@ -902,7 +936,7 @@
             "snippet": {
                 "publishedAt": "2021-01-10T13:10:38Z",
                 "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
-                "title": "【 #雑ホロ杯 /マリカDX8\u200b】びゅーー＾ん🚚【猫又おかゆ視点】",
+                "title": "【 #雑ホロ杯 /マリカDX8​】びゅーー＾ん🚚【猫又おかゆ視点】",
                 "description": "＿ サムネイルはあくあが作ってくれた！⚓✨ 白上フブキ https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg 夜空メル ...",
                 "thumbnails": {
                     "default": {
@@ -1672,40 +1706,6 @@
                 "channelTitle": "Okayu Ch. 猫又おかゆ",
                 "liveBroadcastContent": "none",
                 "publishTime": "2020-12-11T00:48:50Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "J6r0z94iNRoDZzMIdQ2cZQSg5b8",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "oz16hx0ejCI"
-            },
-            "snippet": {
-                "publishedAt": "2020-12-10T10:37:09Z",
-                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
-                "title": "【雑談】ぼたんとおかゆのネコ科邂逅【#ぼたゆん/ホロライブ】",
-                "description": "＿ うちに遊びにきてくれたYO！ ◇獅白ぼたん Twitter：https://twitter.com/shishirobotan YouTube：https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/oz16hx0ejCI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/oz16hx0ejCI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/oz16hx0ejCI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Okayu Ch. 猫又おかゆ",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-12-10T10:37:09Z"
             }
         }
     ]
